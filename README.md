@@ -1,6 +1,6 @@
 Sanctiond plugin
 ============
-> Plugins de /ss mis en open-source car Hugo Markus AKA Keyzun
+> Plugins de /ss mis en open-source car Hugo Markus AKA Keyzun n'arrivait pas à le faire
 
 Commandes
 ============
