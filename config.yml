@@ -1,0 +1,132 @@
+ban:
+  slots: 27
+  "&cTP-Kill":
+    banTime: "2d"
+    lore:
+      - "&6┃ &fDurée: &e2 jours"
+  "&cUsebug lors d'event":
+    banTime: "2d"
+    lore:
+      - "&6┃ &fDurée: &e2 jours"
+  "&cExploitation de bugs":
+    banTime: "7d"
+    lore:
+      - "&6┃ &fDurée: &e7 jours"
+  "&cDouble Compte":
+    banTime: "10d"
+    lore:
+      - "&6┃ &fDurée: &e10 jours"
+  "&cTrahison":
+    banTime: "14d"
+    lore:
+      - "&6┃ &fDurée: &e14 jours"
+  "&cMenace":
+    banTime: "14d"
+    lore:
+      - "&6┃ &fDurée: &e14 jours"
+  "&cLitige":
+    banTime: ""
+    lore:
+      - "&6┃ &fDurée: &ePermanent"
+  "&cPseudo Incorrect":
+    banTime: ""
+    lore:
+      - "&6┃ &fDurée: &ePermanent"
+  "&cDuplication":
+    banTime: ""
+    lore:
+      - "&6┃ &fDurée: &ePermanent"
+  "&cCheat":
+    banTime: ""
+    lore:
+      - "&6┃ &fDurée: &ePermanent"
+  "&cHarcélement":
+    banTime: ""
+    lore:
+      - "&6┃ &fDurée: &ePermanent"
+  "&cContournement de ban":
+    banTime: ""
+    lore:
+      - "&6┃ &fDurée: &ePermanent"
+
+mute:
+  slots: 27
+  "&cProvocation":
+    muteTime: "15m"
+    lore:
+      - "&6┃ &fDurée: &e15 minutes"
+      - "&6┃ &fExemples:"
+      - "&0"
+      - "&7- &e'Ez'"
+  "&cSpam/Flood":
+    muteTime: "30m"
+    lore:
+      - "&6┃ &fDurée: &e30 minutes"
+      - "&6┃ &fExemples:"
+      - "&0"
+      - "&7- &e'Yoo (x2)'"
+      - "&7- &e'Saluuuuuuuuut'"
+  "&cProvocation Grave":
+    muteTime: "45m"
+    lore:
+      - "&6┃ &fDurée: &e45 minutes"
+      - "&6┃ &fExemples:"
+      - "&0"
+      - "&7- &e'Je vais te niquer'"
+  "&cInsultes":
+    muteTime: "45m"
+    lore:
+      - "&6┃ &fDurée: &e45 minutes"
+      - "&6┃ &fExemples:"
+      - "&0"
+      - "&7- &e'Nique ta mère'"
+  "&cCitation d'un serveur":
+    muteTime: "1h"
+    lore:
+      - "&6┃ &fDurée: &e1 heure"
+      - "&6┃ &fExemples:"
+      - "&0"
+      - "&7- &e'J'ai joué sur Rinaorc''"
+  "&cLien/Message Troll":
+    muteTime: "1h"
+    lore:
+      - "&6┃ &fDurée: &e1 heure"
+      - "&6┃ &fExemples:"
+      - "&0"
+      - "&7- &e'Tenez 100000 tokens'"
+  "&cPub non partenaire":
+    muteTime: "2h"
+    lore:
+      - "&6┃ &fDurée: &e2 heures"
+      - "&6┃ &fExemples:"
+      - "&0"
+      - "&7- &e'<lien youtube>'"
+  "&cMoquerie":
+    muteTime: "3h"
+    lore:
+      - "&6┃ &fDurée: &e3 heures"
+      - "&6┃ &fExemples:"
+      - "&0"
+      - "&7- &e'T'es roux ahahah'"
+  "&cInsulte Grave":
+    muteTime: "7h"
+    lore:
+      - "&6┃ &fDurée: &e7 heures"
+      - "&6┃ &fExemples:"
+      - "&0"
+      - "&7- &e'Espece de sale enculé de fils de pute'"
+  "&cPub Serveur":
+    muteTime: "7h"
+    lore:
+      - "&6┃ &fDurée: &e7 heures"
+      - "&6┃ &fExemples:"
+      - "&0"
+      - "&7- &e'Venez sur play.***.fr'"
+  "&cMenaces":
+    muteTime: "1d"
+    lore:
+      - "&6┃ &fDurée: &e1 jour"
+      - "&6┃ &fExemples:"
+      - "&0"
+      - "&7- &e'Fais attention à toi :)'"
+      - "&7- &e'Tu vas voir ce qui va t'arriver'"
